@@ -14,7 +14,7 @@
     "@babel/preset-react": "7.7.4",
     "babel-loader": "8.0.6",
     "aws-sdk": "^2.604.0",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
